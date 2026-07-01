@@ -72,7 +72,7 @@ class Amir:
 <br>
 <br>
 <br>
-📈 __Daily Coding Activity__
+📈 <h2>Daily Coding Activity</h2>
 <br>
 <br>
 🕐 Daily Coding: 2-4 hours<br><br>
