@@ -70,6 +70,8 @@ class Amir:
 💻 Web Development        ████████░░ 75%
 
 
+📈 Daily Coding Activity
+
 🕐 Daily Coding: 2-4 hours
 
 📊 Weekly Commits: 5-15
