@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Amir-syntax.png" width="160px" style="border-radius: 50%; border: 3px solid #7C3AED" />
+  <img src="https://github.com/Amir-syntax.png" width="160" style="border-radius: 50px; border: 3px solid #7C3AED;" />
   
-  <h1>🚀 Amir Boozhmehrani</h1>
+  <h1>🚀 Amir Bozhmehrani</h1>
   <h3>Web Developer | Python Lover | Linux Enthusiast</h3>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Python+Developer;Web+Development+Learner;Linux+Enthusiast;Building+My+Future;Always+Learning+New+Things" />
