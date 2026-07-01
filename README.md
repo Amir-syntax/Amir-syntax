@@ -59,10 +59,15 @@ class Amir:
 
 🎯 Current Missions & Progress
 📚 Learning JavaScript    ██████████ 90%
+
 📚 Learning Flask         ████████░░ 70%
+
 📚 Learning MySQL         ████████░░ 70%
+
 🐍 Python Mastery         █████████░ 85%
+
 💻 Web Development        ████████░░ 75%
+
 
 🕐 Daily Coding: 2-4 hours
 📊 Weekly Commits: 5-15
