@@ -64,15 +64,15 @@ class Amir:
 
 <h2>🎯 Current Missions & Progress</h2>
 
-📚 Learning HTML          ██████████ 100%
+📚 Learning HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████████ 100%
 
-📚 Learning Css           ████░░░░░░ 40%
+📚 Learning Css&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ████░░░░░░ 40%
 
-📚 Learning JS           ░░░░░░░░░░░ 0%
+📚 Learning JS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ░░░░░░░░░░░ 0%
 
-🐍 Learning backend      ░░░░░░░░░░░ 0%
+🐍 Learning backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ░░░░░░░░░░░ 0%
 
-💻 Web Development        ███░░░░░░░ 35%
+💻 Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ███░░░░░░░ 35%
 
 <br>
 <br>
