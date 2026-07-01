@@ -66,13 +66,13 @@ class Amir:
 
 📚 Learning HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████████ 100%
 
-📚 Learning Css&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ████░░░░░░ 40%
+📚 Learning Css&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ████░░░░░░ 40%
 
-📚 Learning JS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ░░░░░░░░░░░ 0%
+📚 Learning JS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ░░░░░░░░░░░ 0%
 
-🐍 Learning backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ░░░░░░░░░░░ 0%
+🐍 Learning backend&nbsp;&nbsp; ░░░░░░░░░░░ 0%
 
-💻 Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ███░░░░░░░ 35%
+💻 Web Development&nbsp;&nbsp; ███░░░░░░░ 35%
 
 <br>
 <br>
