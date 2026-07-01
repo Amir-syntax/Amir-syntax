@@ -89,15 +89,13 @@ class Amir:
 <br>
 <br>
 
-<h2>🏆 GitHub Trophies</h2>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Amir-syntax&theme=radical&no-frame=true&row=2&column=3&margin-w=15" /> </div>
 
-📫 Connect With Me
+<h2>📫 Connect With Me</h2>
 
 <div align="center"> <a href="https://instagram.com/_amir_syntax" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://t.me/amir_syntax0" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="https://twitter.com/Amir_syntax7" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="mailto:amir.syntax.work@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Amir-syntax" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 
-🎵 Random Dev Quote
+<h2>🎵 Random Dev Quote</h2>
 
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div>
 <div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nZ21sjNW/giphy.gif" width="60px" />
