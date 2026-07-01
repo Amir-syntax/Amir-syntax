@@ -71,9 +71,13 @@ class Amir:
 
 
 🕐 Daily Coding: 2-4 hours
+
 📊 Weekly Commits: 5-15
+
 💬 Lines of Code: Growing daily
+
 🎯 Goal: 100 Days of Code Challenge
+
 
 🏆 GitHub Trophies
 
