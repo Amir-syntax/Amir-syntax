@@ -41,19 +41,20 @@ class Amir:
         }
 ```
 
-📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-syntax&theme=radical&hide_border=true&background=0D1117" width="70%" /> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-syntax&theme=react-dark&bg_color=0D1117&hide_border=true" width="90%" /> </div>
-🛠️ Tech Stack
-💻 Languages
+
+<h1>🛠️ Tech Stack</h1>
+<h2>💻 Languages</h2>
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
 
-🚀 Learning
+<h2>🚀 Learning</h2>
 
 <p align="center"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
 
-🛠️ Tools & OS
+<h2>🛠️ Tools & OS</h2>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
 
@@ -84,7 +85,7 @@ class Amir:
 <br>
 <br>
 
-🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Amir-syntax&theme=radical&no-frame=true&row=2&column=3&margin-w=15" /> </div>
 
