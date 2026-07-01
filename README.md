@@ -75,10 +75,10 @@ class Amir:
 📈 Daily Coding Activity
 <br>
 <br>
-🕐 Daily Coding: 2-4 hours
-📊 Weekly Commits: 5-15
-💬 Lines of Code: Growing daily
-🎯 Goal: 100 Days of Code Challenge
+🕐 Daily Coding: 2-4 hours<br><br>
+📊 Weekly Commits: 5-15<br><br>
+💬 Lines of Code: Growing daily<br><br>
+🎯 Goal: 100 Days of Code Challenge<br><br>
 
 <br>
 <br>
