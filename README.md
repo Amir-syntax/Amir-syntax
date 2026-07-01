@@ -64,15 +64,15 @@ class Amir:
 
 <h2>🎯 Current Missions & Progress</h2>
 
-📚 Learning JavaScript    ██████████ 90%
+📚 Learning HTML          ██████████ 100%
 
-📚 Learning Flask         ████████░░ 70%
+📚 Learning Css           ████░░░░░░ 40%
 
-📚 Learning MySQL         ████████░░ 70%
+📚 Learning JS           ░░░░░░░░░░░ 0%
 
-🐍 Python Mastery         █████████░ 85%
+🐍 Learning backend      ░░░░░░░░░░░ 0%
 
-💻 Web Development        ████████░░ 75%
+💻 Web Development        ███░░░░░░░ 35%
 
 <br>
 <br>
