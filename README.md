@@ -54,7 +54,7 @@ class Amir:
 
 <p align="center"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
 
-<h2 align="center">🛠️ Tools & OS</h2>
+<h2>🛠️ Tools & OS</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
