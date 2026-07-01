@@ -70,6 +70,8 @@ class Amir:
 💻 Web Development        ████████░░ 75%
 
 
+
+
 📈 Daily Coding Activity
 
 🕐 Daily Coding: 2-4 hours
@@ -79,6 +81,8 @@ class Amir:
 💬 Lines of Code: Growing daily
 
 🎯 Goal: 100 Days of Code Challenge
+
+
 
 
 🏆 GitHub Trophies
