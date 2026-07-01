@@ -74,6 +74,7 @@ class Amir:
 <br>
 📈 Daily Coding Activity
 <br>
+<br>
 🕐 Daily Coding: 2-4 hours
 
 📊 Weekly Commits: 5-15
