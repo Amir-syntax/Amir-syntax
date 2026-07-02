@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/Amir-syntax.png" width="160" style="border-radius: 7px;">
   
   <h1>🚀 Amir Bozhmehrani</h1>
   <h3>Web Developer | Python Lover | Linux Enthusiast</h3>
